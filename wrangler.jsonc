@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "lucianoschinkelcv",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "Luciano_Database_1",
+			"database_id": "b09c38d3-a55f-4900-9030-4a7496e5fce8"
+		}
+	]
+}
